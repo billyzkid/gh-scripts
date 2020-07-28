@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import * as authors from "../lib/authors.mjs";
-import * as changelog from "../lib/changelog.mjs";
-import * as release from "../lib/release.mjs";
+import * as authors from "../lib/commands/authors.mjs";
+import * as changelog from "../lib/commands/changelog.mjs";
+import * as release from "../lib/commands/release.mjs";
 
 const command = process.argv[2];
 const args = process.argv.slice(3);
