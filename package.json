@@ -1,0 +1,25 @@
+{
+  "name": "gh-scripts",
+  "version": "1.0.0-alpha.0",
+  "license": "MIT",
+  "bin": {
+    "area": "./bin/gh-scripts.mjs"
+  },
+  "dependencies": {
+    "yargs": "^15.4.1"
+  },
+  "scripts": {
+    "authors-help": "node ./bin/gh-scripts.mjs authors --help",
+    "authors-version": "node ./bin/gh-scripts.mjs authors --version",
+    "authors1": "node ./bin/gh-scripts.mjs authors --xValue 5 --yValue 10",
+    "authors2": "node ./bin/gh-scripts.mjs authors -x 5 -y 10",
+    "changelog-help": "node ./bin/gh-scripts.mjs changelog --help",
+    "changelog-version": "node ./bin/gh-scripts.mjs changelog --version",
+    "changelog1": "node ./bin/gh-scripts.mjs changelog --xValue 5 --yValue 10",
+    "changelog2": "node ./bin/gh-scripts.mjs changelog -x 5 -y 10",
+    "release-help": "node ./bin/gh-scripts.mjs release --help",
+    "release-version": "node ./bin/gh-scripts.mjs release --version",
+    "release1": "node ./bin/gh-scripts.mjs release --xValue 5 --yValue 10",
+    "release2": "node ./bin/gh-scripts.mjs release -x 5 -y 10"
+  }
+}
