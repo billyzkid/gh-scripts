@@ -3,7 +3,7 @@
   "version": "1.0.0-alpha.4",
   "license": "MIT",
   "bin": {
-    "area": "./bin/gh-scripts.mjs"
+    "gh-scripts": "./bin/gh-scripts.mjs"
   },
   "dependencies": {
     "yargs": "^15.4.1"
