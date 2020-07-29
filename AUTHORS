@@ -1,0 +1,16 @@
+    Cleanup
+    Initial commit
+    Move command files
+    Update authors command
+    Updates
+Author: Will Allan <will.allan@disneystreaming.com>
+commit 189d18fa4ec598a5b7a559aafff4fa80f62ddb18
+commit 194a5e06ee3dc81f079173352eb657f46458ae86
+commit 73ea8b4ab9af616930c37831b98e0ef432ad343b
+commit ea96d263b3166132e3877d1e36b10466ec9ccc00
+commit f0dea2b1332934605ad84a5b183fc904248c7df2
+Date:   Tue Jul 28 13:42:42 2020 -0700
+Date:   Tue Jul 28 15:15:39 2020 -0700
+Date:   Tue Jul 28 15:22:45 2020 -0700
+Date:   Tue Jul 28 18:42:20 2020 -0700
+Date:   Tue Jul 28 18:56:20 2020 -0700
