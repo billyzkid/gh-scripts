@@ -12,18 +12,14 @@
     "authors-help1": "node ./bin/gh-scripts.mjs authors --help",
     "authors-help2": "node ./bin/gh-scripts.mjs authors -h",
     "authors-help3": "node ./bin/gh-scripts.mjs authors -?",
-
     "authors-version1": "node ./bin/gh-scripts.mjs authors --version",
     "authors-version2": "node ./bin/gh-scripts.mjs authors -v",
-
     "authors-example1": "node ./bin/gh-scripts.mjs authors",
-    "authors-example2": "node ./bin/gh-scripts.mjs authors -r v1.0.0.. -x robot -f ./AUTHORS -e utf8",
-
+    "authors-example2": "node ./bin/gh-scripts.mjs authors -r HEAD -x robot -f ./AUTHORS -e utf8",
     "changelog-help": "node ./bin/gh-scripts.mjs changelog --help",
     "changelog-version": "node ./bin/gh-scripts.mjs changelog --version",
     "changelog1": "node ./bin/gh-scripts.mjs changelog --xValue 5 --yValue 10",
     "changelog2": "node ./bin/gh-scripts.mjs changelog -x 5 -y 10",
-
     "release-help": "node ./bin/gh-scripts.mjs release --help",
     "release-version": "node ./bin/gh-scripts.mjs release --version",
     "release1": "node ./bin/gh-scripts.mjs release --xValue 5 --yValue 10",
