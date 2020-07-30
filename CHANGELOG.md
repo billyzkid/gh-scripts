@@ -38,4 +38,4 @@
 
 ### Authors (1)
 
-* Will Allan \<will.allan@disneystreaming.com> ([@undefined](undefined))
+* Will Allan \<will.allan@disneystreaming.com>
