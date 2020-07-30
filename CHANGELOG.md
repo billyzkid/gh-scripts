@@ -1,7 +1,7 @@
 ## Unreleased
 > The following commits have not been released.
 
-### Commits (40)
+### Commits (41)
 
 * Unlabeled
   > The following commits have not been labeled.
@@ -9,46 +9,47 @@
   * Unspecified
     > The following commits include unspecified files.
 
-    * Increment package version will.allan@disneystreaming.com
-    * Increment package version will.allan@disneystreaming.com
-    * Cleanup will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Format commit authors will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Add debugging support will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Add command options and default values will.allan@disneystreaming.com
-    * Cleanup will.allan@disneystreaming.com
-    * Add yargs for changelog command will.allan@disneystreaming.com
-    * Cleanup will.allan@disneystreaming.com
-    * Increment package version will.allan@disneystreaming.com
-    * Increment package version will.allan@disneystreaming.com
-    * Add .env support will.allan@disneystreaming.com
-    * Increment package version will.allan@disneystreaming.com
-    * GitHub data will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Cleanup will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Changelog stuff will.allan@disneystreaming.com
-    * Changelog test will.allan@disneystreaming.com
-    * Cleanup will.allan@disneystreaming.com
-    * Update changelog command will.allan@disneystreaming.com
-    * Update authors command will.allan@disneystreaming.com
-    * Update defaults will.allan@disneystreaming.com
-    * Increment package version will.allan@disneystreaming.com
-    * Update package file will.allan@disneystreaming.com
-    * Increment package version will.allan@disneystreaming.com
-    * Cleanup will.allan@disneystreaming.com
-    * Update order of things will.allan@disneystreaming.com
-    * Stuff will.allan@disneystreaming.com
-    * Cleanup will.allan@disneystreaming.com
-    * Updates will.allan@disneystreaming.com
-    * Move command files will.allan@disneystreaming.com
-    * Update authors command will.allan@disneystreaming.com
-    * Initial commit will.allan@disneystreaming.com
+    * Increment package version (will.allan@disneystreaming.com)
+    * Increment package version (will.allan@disneystreaming.com)
+    * Increment package version (will.allan@disneystreaming.com)
+    * Cleanup (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Format commit authors (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Add debugging support (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Add command options and default values (will.allan@disneystreaming.com)
+    * Cleanup (will.allan@disneystreaming.com)
+    * Add yargs for changelog command (will.allan@disneystreaming.com)
+    * Cleanup (will.allan@disneystreaming.com)
+    * Increment package version (will.allan@disneystreaming.com)
+    * Increment package version (will.allan@disneystreaming.com)
+    * Add .env support (will.allan@disneystreaming.com)
+    * Increment package version (will.allan@disneystreaming.com)
+    * GitHub data (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Cleanup (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Changelog stuff (will.allan@disneystreaming.com)
+    * Changelog test (will.allan@disneystreaming.com)
+    * Cleanup (will.allan@disneystreaming.com)
+    * Update changelog command (will.allan@disneystreaming.com)
+    * Update authors command (will.allan@disneystreaming.com)
+    * Update defaults (will.allan@disneystreaming.com)
+    * Increment package version (will.allan@disneystreaming.com)
+    * Update package file (will.allan@disneystreaming.com)
+    * Increment package version (will.allan@disneystreaming.com)
+    * Cleanup (will.allan@disneystreaming.com)
+    * Update order of things (will.allan@disneystreaming.com)
+    * Stuff (will.allan@disneystreaming.com)
+    * Cleanup (will.allan@disneystreaming.com)
+    * Updates (will.allan@disneystreaming.com)
+    * Move command files (will.allan@disneystreaming.com)
+    * Update authors command (will.allan@disneystreaming.com)
+    * Initial commit (will.allan@disneystreaming.com)
 
 ### Authors (1)
 
